@@ -1,4 +1,4 @@
-#allow user to roll dice
+# allow user to roll dice
 # ask user whether to continue to roll
 # if a player has a score above 50 then they've won
 
